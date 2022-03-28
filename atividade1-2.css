@@ -1,0 +1,16 @@
+.filha1{
+    background-color: red; 
+    width: 50px;
+    height: 50px;
+    border: 2px solid green; 
+    margin-top: 100px;
+}
+.filha2 {
+    background-color: black;
+    height: 25vh;
+    width: 50%;
+    border: 10px dashed red;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}

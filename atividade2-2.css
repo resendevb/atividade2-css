@@ -1,0 +1,20 @@
+.pai{
+    background-color: rgb(207, 138, 207);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.filha1 {
+    background-color: #FF1493;
+    width: 250px;
+    height: 84%;
+    border: 20px solid red;
+    
+}
+.filha2{
+    background-color: rgb(34, 226, 226);
+    width: 30%;
+    height: 88%;
+    
+}

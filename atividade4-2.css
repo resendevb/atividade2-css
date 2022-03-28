@@ -1,0 +1,74 @@
+.pai{
+    background-color: rgb(151, 63, 151);
+    height: 250px;
+    width: 75%;
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+}
+.filha{
+    background-color: white;
+    height: 50%;
+    width: 75%;
+    margin-top: 58px;
+    border: 10px solid darkblue;
+    display: flex;
+    justify-content: center;
+}
+.texto{
+    color: darkblue;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: larger;
+    margin-top: 45px;
+}
+    
+.filha1{
+    background-color: blue;
+    height: 30px;
+    width: 65%;
+    margin-top: 40px;
+    margin-left: 250px; 
+}
+.filha2{
+background-color: purple;
+height: 30px;
+width: 30%;
+margin-left: 500px;
+}
+.verde_escuro {
+    background-color: darkgreen;
+    height: 30px;
+    width: 55%;
+    margin-left:320px;
+}
+.amarelo{
+    background-color: yellow;
+    height: 30px;
+    width: 45%;
+    margin-left: 400px;
+}
+
+.vermelho{
+    background-color: red;
+    height: 30px;
+    width: 45%;
+    margin-top: 100px;
+    float: left;
+}
+.azul{
+    background-color: rgb(115, 115, 235);
+    height: 30px;
+    width: 25%;
+    margin-top: 100px; 
+    float: left;
+}
+
+.neon {
+    background-color: rgb(145, 255, 0);
+    height: 30px;
+    width: 30%;
+    margin-top: 100px;
+    float: left;
+}
+
